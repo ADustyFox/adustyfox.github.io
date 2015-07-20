@@ -15,3 +15,21 @@ SHA384: 9cde4442cb91293887c53008129aca0deb445f72b34d8bf5ad5dc258d0497e76777d966d
 SHA512: 726cc0a2e1691c2e97ecfff14a550218a49a233de02ec2d5cd73988aed9478dc1309cd8789ea33b520da2550a7492d6d7267e7ddd2e63cbeda75454fb8241cf6
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 7.0)
+
+Section: Tweaks
+Name: Tage
+Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+Author: Ma Jun <majun3@gmail.com>
+Maintainer: ADustyFox <adustyfox@outlook.com>
+Package: com.clezz.tage
+Version: 1.0.8
+Filename: debs/com.clezz.tage_1.0.8_iphoneos-arm.deb
+Size: 203488
+CRC32: 680fec20
+MD5sum: b0a4cdc4c2ce9ff6b012eccddf455c8e
+SHA1: 7693bb022466e7bf2ba065e1138a92fac67624ad
+SHA256: 252ea266afaaca85c52dbe1b0460e7f8a6beb5976d08b5274e451d5fe7b9ec27
+SHA384: 92387e72a7bce8b3c3f279831420f00a1ba82fc2f07ee333ef801863e1a13c6dc4c619d12ae31bb435cb9f61cf361768
+SHA512: 231833937510be31329743fc894d57ba6603f69fc6d7e335a1f686e1d2233dc0b696ac9cac94a389de17b2b4bd19f8eccedb6acdad8874f69b9d42bced3c719e
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)

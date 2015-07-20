@@ -1,0 +1,17 @@
+Section: Tweaks
+Name: RoundDock
+Description: Round those dock corners.
+Author: Brogan Miner <broganminer22@gmail.com>
+Maintainer: ADustyFox <adustyfox@outlook.com>
+Package: com.broganminer.rounddock
+Version: 1.0.1-1
+Filename: debs/com.broganminer.rounddock_1.0.1-1_iphoneos-arm.deb
+Size: 3868
+CRC32: 67cbffee
+MD5sum: 524ba582ef9a84c0056be92491ceb0c3
+SHA1: 6562edd0c6387f387645acaf570aa0d71a265d64
+SHA256: 24741087fa940e8d844dd28aaf5f742869393e1718a435c800228852f98087f8
+SHA384: 9cde4442cb91293887c53008129aca0deb445f72b34d8bf5ad5dc258d0497e76777d966dbf937a94d109bfbce3592902
+SHA512: 726cc0a2e1691c2e97ecfff14a550218a49a233de02ec2d5cd73988aed9478dc1309cd8789ea33b520da2550a7492d6d7267e7ddd2e63cbeda75454fb8241cf6
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0)

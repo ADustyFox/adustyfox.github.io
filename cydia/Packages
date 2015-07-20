@@ -1,4 +1,22 @@
 Section: Tweaks
+Name: NO PLS RECOVERY
+Description: A tweak that prevents accidental updates/restores and thievery.
+Author: Karen Tsai (angelXwind) <angelxwind@angelxwind.net>
+Maintainer: ADustyFox <adustyfox@outlook.com>
+Package: net.angelxwind.noplsrecovery
+Version: 1.1-3
+Filename: debs/net.angelxwind.noplsrecovery_1.1-3_iphoneos-arm.deb
+Size: 6260
+CRC32: b1f34d8b
+MD5sum: 5306737d67e50be66527c47202cf801d
+SHA1: 13d540fd510a18af1b1c090de243ee2248e25e50
+SHA256: d92f656fd6b606a31880d449f9d2271fb47f82978fa76c17ced249a81552d14e
+SHA384: fbc65b2e81dc107a3ff654d196f633e7055dceee2ca362b4828c08d6086dc088fee551a1f328fcab5c57bb1001e5775c
+SHA512: 9eb55189ac41c57179ad4615f6096ae0987359bb486d21070929cb04cf970ddcd9115a1a4a366f3ada50c685d1f6b48186bd63503a474a651cf6623e388e2f02
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 4.0)
+
+Section: Tweaks
 Name: RoundDock
 Description: Round those dock corners.
 Author: Brogan Miner <broganminer22@gmail.com>

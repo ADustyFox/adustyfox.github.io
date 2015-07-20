@@ -1,0 +1,8 @@
+Origin: ADustyFox's Cydia Repository
+Label: ADustyFox
+Suite: stable
+Version: 0.1
+Codename: ADustyFox-Cydia
+Architectures: iphoneos-arm
+Components: main
+# Description:
